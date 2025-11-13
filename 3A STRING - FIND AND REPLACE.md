@@ -23,6 +23,9 @@ To write a Python function to accept a string, identify a word to be replaced, a
 ### PROGRAM
 
 ```
+#Reg.No: 212223020002
+#Name:ANUSRI SRIDHAR
+
 def replacestr(n,p):
     print("The old string is {}".format(n))
     print("the new string is {}".format(n.replace(p,x)))
